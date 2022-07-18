@@ -1,2 +1,2 @@
 # mirror.TetrisJS
-A tetris game originally from http://game.waimai.zone/els/game.html
+A tetris game originates from http://game.waimai.zone/els/game.html
